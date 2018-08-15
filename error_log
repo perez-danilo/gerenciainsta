@@ -1,0 +1,90 @@
+[25-Jul-2018 00:03:57 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2018 00:03:57 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2018 00:03:57 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2018 00:03:57 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2018 00:03:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php52/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /opt/php52/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[25-Jul-2018 00:03:57 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2018 00:03:57 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2018 00:03:57 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[25-Jul-2018 00:04:06 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[25-Jul-2018 00:04:06 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[25-Jul-2018 00:04:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php52/lib/php/extensions/no-debug-non-zts-20060613/pdo.so' - /opt/php52/lib/php/extensions/no-debug-non-zts-20060613/pdo.so: undefined symbol: zend_objects_store_add_ref in Unknown on line 0
+[25-Jul-2018 00:04:06 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[25-Jul-2018 00:04:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php52/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /opt/php52/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[25-Jul-2018 00:04:06 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[25-Jul-2018 00:04:06 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[25-Jul-2018 00:04:06 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[25-Jul-2018 02:51:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:51:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:52:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:52:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:52:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:52:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:52:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:52:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:52:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:52:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:52:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357
+[25-Jul-2018 02:52:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/gerenciainsta/public_html/inc/themes/default/views/index.php on line 357

@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-05-20T16:32:26+02:00\n"
+"PO-Revision-Date: 2018-05-20T16:32:26+02:00\n"
+"Language: \n"
+
+msgid "Missing some of required data."
+msgstr ""
+
+msgid "Invalid parameter"
+msgstr ""
+
+msgid "%s public post"
+msgid_plural "%s public posts"
+msgstr[0] ""
+
+msgid "Changes saved!"
+msgstr ""
+
+msgid "Instagram user"
+msgstr ""
+
+msgid "Re-login required!"
+msgstr ""
+
+msgid "Load More"
+msgstr ""
+
+msgid "You haven't add any Instagram account yet. Click the button below to add your first account."
+msgstr ""
+
+msgid "New Account"
+msgstr ""
+
+msgid "You don't have a permission to add any Instagram account."
+msgstr ""
+
+msgid "Please select an account from left side list."
+msgstr ""
+
+msgid "Target & Settings"
+msgstr ""
+
+msgid "Activity Log"
+msgstr ""
+
+msgid "Next request will be sent %s approximately"
+msgstr ""
+
+msgid "Next request will be sent in a few moments"
+msgstr ""
+
+msgid "Something is wrong on the system"
+msgstr ""
+
+msgid "System task error"
+msgstr ""
+
+msgid "Reposted {username}'s {post}"
+msgstr ""
+
+msgid "Removed at %s"
+msgstr ""
+
+msgid "Scheduled to remove at %s"
+msgstr ""
+
+msgid "Failed to remove at %s"
+msgstr ""
+
+msgid "View Original"
+msgstr ""
+
+msgid "View Reposted"
+msgstr ""
+
+msgid "Total %s actions"
+msgstr ""
+
+msgid "Auto Like activity log for %s is empty"
+msgstr ""
+
+msgid "Hashtags"
+msgstr ""
+
+msgid "Places"
+msgstr ""
+
+msgid "People"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Speed"
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Recommended"
+msgstr ""
+
+msgid "Very Slow"
+msgstr ""
+
+msgid "Slow"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "Fast"
+msgstr ""
+
+msgid "Very Fast"
+msgstr ""
+
+msgid "Remove after ..."
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "%s minutes"
+msgstr ""
+
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] ""
+
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] ""
+
+msgid "Pause actions everyday"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "Caption"
+msgstr ""
+
+msgid "Add your caption"
+msgstr ""
+
+msgid "Leave empty to repost without a caption."
+msgstr ""
+
+msgid "You can use following variables in the comments:"
+msgstr ""
+
+msgid "Original caption"
+msgstr ""
+
+msgid "Media owner's username"
+msgstr ""
+
+msgid "Media owner's full name. If user's full name is not set, username will be used."
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Deactive"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Speeds"
+msgstr ""
+
+msgid "%s request/day"
+msgid_plural "%s requests/day"
+msgstr[0] ""
+
+msgid "These values indicates maximum amount of the requests per day. They are not exact values. Depending on the server overload and delays between the requests, actual number of the requests might be less than these values."
+msgstr ""
+
+msgid "High speeds might be risky"
+msgstr ""
+
+msgid "Developers are not responsible for any issues related to the Instagram accounts."
+msgstr ""
+
+msgid "Other Settings"
+msgstr ""
+
+msgid "Enable Random Delays"
+msgstr ""
+
+msgid "If you enable this option, script will add random delays automatically between each requests."
+msgstr ""
+
+msgid "Delays could be up to 60 minutes."
+msgstr ""
+
+msgid "Auto Repost"
+msgstr ""
+
+msgid "Auto Repost Module Settings"
+msgstr ""
